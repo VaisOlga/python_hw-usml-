@@ -1,0 +1,4 @@
+Тесты находятся в модуле /tests/tests.py
+
+Для запуска тестов из папки gcd можно ввести команду
+python -m unittest -v tests/tests.py
